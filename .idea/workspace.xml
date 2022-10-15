@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35a46705-819f-43c9-bf00-63d4e5d3aa0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit3.vol2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example29.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Example18.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GAoSMGCJyy8zi8hyu4QMRUGvBj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Example18">
+    <configuration name="Example17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example17" />
+      <module name="Unit3.vol2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example18" />
+      <module name="Unit3.vol2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example18" />
+        <item itemvalue="Application.Example17" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a46705-819f-43c9-bf00-63d4e5d3aa0a" name="Changes" comment="" />
+      <created>1665840750668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665840750668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
